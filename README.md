@@ -1,10 +1,10 @@
 # Smart Meter Data Catalog
 
-[![Build Status](https://travis-ci.org/smda/smart-meter-data-catalog.svg?branch=master)](https://travis-ci.org/smda/smart-meter-data-catalog)
+[![Build Status](https://travis-ci.org/ami-solution/smart-meter-data-catalog.svg?branch=master)](https://travis-ci.org/ami-solution/smart-meter-data-catalog)
 
 ## Welcome
 
-This is a listing containing Smart Meter related datasets (and code repositories that use these datasets). The listing is displayed and searched in [Smart Meter Data Portal](https://smda.github.io/smart-meter-data-portal/).
+This is a listing containing Smart Meter related datasets (and code repositories that use these datasets). The listing is displayed and searched in [Smart Meter Data Portal](https://ami-solution.github.io/smart-meter-data-portal/).
 
 The **Smart Meter Data Portal**, built by a group from **Georgia Tech**, is part of the **National Science Foundation (NSF) Smart Grid Data Analytics Spoke Project**. The purpose of this website is to provide a mechanism to researchers to **share data and code on Smart Meter Data Analytics**.
 
@@ -15,7 +15,7 @@ The website enables researchers to:
 
 ## Contribute to the Listing
 
-If you'd like to contribute to this listing, please go to [Smart Meter Data Portal](https://smda.github.io/smart-meter-data-portal/) and select "Contribute" on the top right conner of the page.
+If you'd like to contribute to this listing, please go to [Smart Meter Data Portal](https://ami-solution.github.io/smart-meter-data-portal/) and select "Contribute" on the top right conner of the page.
 
 ## Edit/Remove Previous Contribution
 

@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RSLi/smart-meter-data-catalog.git"
+    "url": "git+https://github.com/Ami-Solution/smart-meter-data-catalog.git"
   },
   "author": "rs-li",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RSLi/smart-meter-data-catalog/issues"
+    "url": "https://github.com/Ami-Solution/smart-meter-data-catalog/issues"
   },
-  "homepage": "https://github.com/RSLi/smart-meter-data-catalog#readme",
+  "homepage": "https://github.com/Ami-Solution/smart-meter-data-catalog#readme",
   "devDependencies": {
     "@rs-li/yaml2dict": "0.0.2"
   },
