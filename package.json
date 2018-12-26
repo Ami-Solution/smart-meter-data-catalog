@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node bin/compile.js > catalog.json"
+    "test": "node bin/compile.js > catalog.json",
+    "start": "node bin/compile.js > catalog.json"
   },
   "repository": {
     "type": "git",
